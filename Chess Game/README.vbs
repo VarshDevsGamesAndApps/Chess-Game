@@ -1,0 +1,1 @@
+X=MsgBox("This Is A Chess Game, It Applies The Chess Rules Given By FIDE. Enjoy!",4+64,"README")
